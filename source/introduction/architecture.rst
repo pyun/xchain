@@ -1,4 +1,4 @@
-.. _architecture:
+
 
 架构
 ====

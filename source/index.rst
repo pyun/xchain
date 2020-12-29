@@ -34,28 +34,6 @@ xchain文档
    quickstart/deploy.rst
    quickstart/operation.rst
 
-.. toctree::
-   :maxdepth: 2
-   :caption: 开发应用:
-   :numbered:
-
-   development/constract_ready.rst
-   development/constract_dev.rst
-
-.. toctree::
-   :maxdepth: 2
-   :caption: RPC接口:
-   :numbered:
-
-   api/rpc.rst
-
-   .. toctree::
-   :maxdepth: 2
-   :caption: 参考手册:
-   :numbered:
-
-   reference/reference.rst
-
 Indices and tables
 ==================
 

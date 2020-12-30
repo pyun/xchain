@@ -12,27 +12,57 @@ xchain文档
    :caption: 实验室介绍:
    :numbered:
 
-   lab.rst
+   lab
 
 .. toctree::
    :maxdepth: 2
    :caption: xchain介绍:
    :numbered:
 
-   introduction/brief.rst
-   introduction/architecture.rst
-   introduction/consensus.rst
-   introduction/contract.rst
-   introduction/module.rst
-   introduction/member.rst
+   introduction/brief
+   introduction/architecture
+   introduction/consensus
+   introduction/contract
+   introduction/module
+   introduction/member
 
 .. toctree::
    :maxdepth: 2
    :caption: 快速入门:
    :numbered:
 
-   quickstart/deploy.rst
-   quickstart/operation.rst
+   quickstart/deploy
+   quickstart/operation
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 开发应用:
+   :numbered:
+
+   development/ready
+   development/dev
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 网络部署:
+   :numbered:
+
+   deployment/native
+   deployment/docker
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 命令参考:
+   :numbered:
+
+   reference/reference
+
+.. toctree::
+   :maxdepth: 2
+   :caption: RPC接口:
+   :numbered:
+
+   api/rpc
 
 Indices and tables
 ==================

@@ -31,8 +31,10 @@ xchain文档
    :caption: 快速入门:
    :numbered:
 
-   quickstart/deploy
-   quickstart/operation
+   quickstart/Prerequisites
+   quickstart/StartChain
+   quickstart/Member&Govern
+   quickstart/Contract
 
 .. toctree::
    :maxdepth: 2
